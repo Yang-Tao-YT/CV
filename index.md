@@ -6,18 +6,26 @@ email:
   text: zacktao24@gmail.com
 ---
 
-# Wode **Ni**
+# Yang **Tao**
+
+## what you can expect from me
+> Nice Personality: Charming, friendly, talking <br>
+> Good Programming:  proficiency in Python and SQL, intermediate in R and C++<br>
+> Mathematics:  Stochastic calculus, Probability analysis, Differential equations, Time series analysis<br>
+> solid Finance fundation: Passed CFA Level I, CFA Level II Candidate<br>
+> Thorough Investment Strategies:  Assets allocating strategy, Corporation Finance, Product development<br>
+> Insightful Data Analysis: Regression, Machine learning, Simulation, Data mining<br>
 
 
-## Education
+## Where i went to for Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Boston University** `2020 -`
 
 ```
-Pittsburgh, PA
+Boston, MA
 ```
 
-- Ph.D. in Software Engineering
+- M.S. in Software Engineering
 - Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
 
 ### **Columbia University** `2016.9 - 2018.5`
