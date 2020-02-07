@@ -1,12 +1,9 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Yang Tao
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: zacktao24@gmail.com
+  text: zacktao24@gmail.com
 ---
 
 # Wode **Ni**
