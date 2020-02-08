@@ -5,7 +5,7 @@ email:
   url: zacktao24@gmail.com
   text: zacktao24@gmail.com
 ---
-
+![](https://thumbs2.imagebam.com/6a/ac/08/a210501333433983.jpg)
 # Yang **Tao**
 
 ## What you can expect from me
@@ -36,7 +36,7 @@ Norman, OK
 
 - B.S. Finance, _Minor in Accounting_
 
-### **Nanjing University `2013 - 2015`
+### **Nanjing University** `2013 - 2015`
 
 ```
 Nanjing, China
