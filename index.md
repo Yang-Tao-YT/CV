@@ -5,7 +5,7 @@ email:
   url: zacktao24@gmail.com
   text: zacktao24@gmail.com
 ---
-![](https://thumbs2.imagebam.com/6a/ac/08/a210501333433983.jpg)
+
 # Yang **Tao**
 
 ## What you can expect from me
@@ -16,7 +16,7 @@ email:
 > Thorough Investment Strategies:  Assets allocating strategy, Corporation Finance, Product development<br>
 > Insightful Data Analysis: Regression, Machine learning, Simulation, Data mining<br>
 
-
+----
 ## Where i went to for Education
 
 ### **Boston University** `2020 -`
@@ -44,28 +44,28 @@ Nanjing, China
 
 - Business Administration
 
-
-## Experience
+----
+## What i have been through
 
 ### **Bank of Ningbo Co., Ltd.,Assistant of Investment Advisor** `2018 - 2019`
-•	Analyzed investment objects and compared performances in the product development department by Python with both Fundamental analysis and Technical analysis 
-•	Developed and upgraded investment products; improved sharp ratio of one product by 0.4
+•	Analyzed investment objects and compared performances in the product development department by Python with both Fundamental analysis and Technical analysis <br>
+•	Developed and upgraded investment products; improved sharp ratio of one product by 0.4<br>
 •	Evaluated risk tolerance of customers using multivariable regression and matched feasible product to clients concerning their preference
 
 
 ### **Boston University, Project of Portfolio management with Machine Learning** `08.2019`
 _team leader_<br>
-•	Led team of 5 students to prepared a portfolio optimization strategy using ML algorithm
-•	Collected, wrangled, preprocessed and explored data for further training and testing and designed a Deep reinforcement learning model to optimize financial portfolio
-•	Analyzed result by using different techniques and comparison with linear regression; backtested with result of 0.78 R square, 0.7 sharp ratio and accuracy of 0.86
+•	Led team of 5 students to prepared a portfolio optimization strategy using ML algorithm<br>
+•	Collected, wrangled, preprocessed and explored data for further training and testing and designed a Deep reinforcement learning model to optimize financial portfolio<br>
+•	Analyzed result by using different techniques and comparison with linear regression; backtested with result of 0.78 R square, 0.7 sharp ratio and accuracy of 0.86<br>
 
 ### **The Cornell Investment Portfolio Case Competition, Target date fund** `2020`
 _Fund Asset allocation strategy_<br>
-•	Led team of 4 to design a Target date fund and retirement plan
-•	Designed a model to evaluate risk aversion and calculate the weight of asset using utility function and risk aversion; adapted tactical strategy to improve and smooth the performance 
+•	Led team of 4 to design a Target date fund and retirement plan<br>
+•	Designed a model to evaluate risk aversion and calculate the weight of asset using utility function and risk aversion; adapted tactical strategy to improve and smooth the performance <br>
 •	Projected a business plan and delivered to the potential customer
 
-
+----
 ## what i feel good to let others know
 Rep in Graduate Council `BU, 2019` <br>
 OU Cousins Member `OU, 2017` <br>
@@ -74,11 +74,18 @@ President’s Honor Roll  `OU, 2018` <br>
 OU CSSA Members `OU, 2017` <br>
 Volunteer in school for students with mental and physical challenge `Nanjing, 2016` <br>
 GMAT: 760/99%  <br>
+preparing CFA level 2  <br>
 HND CSSA Members   `Nanjing, 2016` <br>
-Having one dog <br>
-Having a lovely niece <br> 
+Have one dog <br>
+Have a lovely niece <br> 
+Trading stocks <br>
+will have a niece or nephew this year  <br>
+
+----
+## Instruction for getting know me better
+1. open browser
+2. log in your gmail
+3. email me 'Hi'
+4.i will handle the rest
 
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
