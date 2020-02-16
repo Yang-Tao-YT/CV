@@ -47,6 +47,7 @@ Nanjing, China
 ----
 ## What i have been through
 
+
 ### **Bank of Ningbo Co., Ltd.,Assistant of Investment Advisor** `2018 - 2019`
 •	Analyzed investment objects and compared performances in the product development department by Python with both Fundamental analysis and Technical analysis <br>
 •	Developed and upgraded investment products; improved sharp ratio of one product by 0.4<br>
@@ -64,6 +65,12 @@ _Fund Asset allocation strategy_<br>
 •	Led team of 4 to design a Target date fund and retirement plan<br>
 •	Designed a model to evaluate risk aversion and calculate the weight of asset using utility function and risk aversion; adapted tactical strategy to improve and smooth the performance <br>
 •	Projected a business plan and delivered to the potential customer
+
+### **Boston University	,Portfolio optimizer with unsupervised machine learning** `2020`
+_team leader_<br>                                                                  – 
+•	Led team of 5 students to process a dimension reduction using autoencoder algorithm 
+•	Built an algorithm to find the latent feature of S&P 500 index; test different optimizer and loss function to find the best fit; reduced the dimension of the index based on the analysis using the latent feature. Picked top and lest 50 communal information stocks to construct portfolio.
+•	Designed a portfolio weight using Deep portfolio theory and modern portfolio theory. 
 
 ----
 ## what i feel good to let others know
