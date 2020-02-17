@@ -67,9 +67,9 @@ _Fund Asset allocation strategy_<br>
 •	Projected a business plan and delivered to the potential customer
 
 ### **Boston University	,Portfolio optimizer with unsupervised machine learning** `2020`
-_team leader_<br>                                                                  – 
+_team leader_<br>
 •	Led team of 5 students to process a dimension reduction using autoencoder algorithm <br>
-•Built an algorithm to find the latent feature of S&P 500 index; test different optimizer and loss function to find the best fit; reduced the dimension of the index based on the analysis using the latent feature. Picked top and lest 50 communal information stocks to construct portfolio 
+•	Built an algorithm to find the latent feature of S&P 500 index; test different optimizer and loss function to find the best fit; reduced the dimension of the index based on the analysis using the latent feature. Picked top and lest 50 communal information stocks to construct portfolio <br>
 •	Designed a portfolio weight using Deep portfolio theory and modern portfolio theory 
 
 ----
