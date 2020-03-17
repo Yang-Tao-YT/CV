@@ -73,7 +73,7 @@ _team leader_<br>
 •	Designed a portfolio weight using Deep portfolio theory and modern portfolio theory 
 
 ----
-## what i feel good to let others know
+## What i feel good to let others know
 Rep in Graduate Council `BU, 2019` <br>
 OU Cousins Member `OU, 2017` <br>
 University College Dean’s Honor Roll    `OU, 2018` <br>
@@ -92,7 +92,7 @@ will have a niece or nephew this year  <br>
 ## Instruction for getting know me better
 1. open browser
 2. log in your gmail
-3. email me 'Hi'
+3. email me 'Hi'<br>
 4.i will handle the rest
 
 
