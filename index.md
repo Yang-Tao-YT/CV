@@ -13,7 +13,7 @@ email:
 > Good Programming:  proficiency in Python and SQL, intermediate in R and C++<br>
 > Mathematics:  Stochastic calculus, Probability analysis, Differential equations, Time series analysis<br>
 > solid Finance fundation: Passed CFA Level I, CFA Level II Candidate<br>
-> Thorough Investment Strategies:  Assets allocating strategy, Corporation Finance, Product development<br>
+> Thorough Quantitative Finance skilss: Risk analysis and modeling, Financial modeling, Portfolio Optimization, Pricing model<br>
 > Insightful Data Analysis: Regression, Machine learning, Simulation, Data mining<br>
 
 ----
@@ -26,7 +26,7 @@ Boston, MA
 ```
 
 - M.S. in Software Engineering
-- •	Coursework: **Statistical Methods in Finance**, Stochastic Methods of Mathematical Finance, **Advanced Programming for Mathematical Finance**, Fintech,and **Computational Methods of Finance**
+- •	Coursework: **Statistical Methods in Finance**, **Credit risk**,**Corporate risk management**,Stochastic Methods of Mathematical Finance, **Advanced Programming for Mathematical Finance**, Fintech,and **Computational Methods of Finance**
 
 ### **University of Oklahoma** `2015 - 2018`
 
@@ -34,7 +34,7 @@ Boston, MA
 Norman, OK
 ```
 
-- B.S. Finance, _Minor in Accounting_
+- B.S. Finance, _Minor in Accounting_ ,GMAT 760
 
 ### **Nanjing University** `2013 - 2015`
 
@@ -46,6 +46,13 @@ Nanjing, China
 
 ----
 ## What i have been through
+### **Kaiyuan Securities Co Ltd, Quantitative Analysis Associate** `06.2020 – Present`
+Shanghai, China         
+•	Constructed and maintained a Multi-factor Model to analyze and estimate the performance of the stock; <br>
+•	Applied statistical test, such as significant test and Heteroskedasticity test to select effective factors for stocks in the portfolio and to improve the performance of the model;<br>
+•	Analyzed risk of portfolio using factors covariance matrix and residual value model;<br>
+•	Written analysis report and supported more than 50 funds managers with portfolio construction;<br>
+•	Analyzed the fund manager’s positioning and prepared following risk report to customers;<br>
 
 
 ### **Bank of Ningbo Co., Ltd.,Assistant of Investment Advisor** `2018 - 2019`
