@@ -63,9 +63,11 @@ Shanghai, China
 
 ### **Boston University, Project of Portfolio management with Machine Learning** `08.2019`
 _team leader_<br>
-•	Led team of 5 students to prepared a portfolio optimization strategy using ML algorithm<br>
-•	Collected, wrangled, preprocessed and explored data for further training and testing and designed a Deep reinforcement learning model to optimize financial portfolio<br>
-•	Analyzed result by using different techniques and comparison with linear regression; backtested with result of 0.78 R square, 0.7 sharp ratio and accuracy of 0.86<br>
+•	Led team of 4 students to process dimension reduction using autoencoder algorithm;<br>
+•	Built autoencoder algorithm to find the latent feature of S&P 500 index; tested different optimizer and loss function to find the best parameter; <br>
+•	Reduced the dimension of the index based on the analysis of the feature by selected top and lest 50 communal information stocks;<br>
+•	Designed a portfolio using Deep portfolio theory and latent feature; with results of 0.78 R square;<br>
+
 
 ### **The Cornell Investment Portfolio Case Competition, Target date fund** `2020`
 _Fund Asset allocation strategy_<br>
