@@ -48,11 +48,12 @@ Nanjing, China
 ## What i have been through
 ### **Kaiyuan Securities Co Ltd, Quantitative Analysis Associate** `06.2020 – Present`
 Shanghai, China         
-•	Constructed and maintained a Multi-factor Model to analyze and estimate the performance of the stock; <br>
-•	Applied statistical test, such as significant test and Heteroskedasticity test to select effective factors for stocks in the portfolio and to improve the performance of the model;<br>
-•	Analyzed risk of portfolio using factors covariance matrix and residual value model;<br>
-•	Written analysis report and supported more than 50 funds managers with portfolio construction;<br>
-•	Analyzed the fund manager’s positioning and prepared following risk report to customers;<br>
+•	Written analytical report and supported 2 portfolio projects with net value of more than $500 million;<br>
+•	Constructed Multi-factor Model to estimate the expected return of the stocks (Python & SQL); <br>
+•	Applied statistical tests, such as the significant test and the Heteroskedasticity test to select 20 effective factors for all stocks in the portfolio and to improve the performance of the model;<br>
+•	Analyzed risk of the constructed portfolio using the factors covariance matrix and the residual value model; assessed risk of fund managers’ positioning and prepared following risk reports;<br>
+•	Improved sharp ratios of two funds by 0.14 and 0.22 respectively; decrease VaR by 40% of both funds;
+
 
 
 ### **Bank of Ningbo Co., Ltd.,Assistant of Investment Advisor** `2018 - 2019`
